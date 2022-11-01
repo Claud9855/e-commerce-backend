@@ -17,7 +17,7 @@
 # Demo Walkthrough
 --------------------
 
-Click [link]() to see walkthrough video
+Click [link](https://drive.google.com/file/d/1t1wNub0-i21oCqNgOzZUDwBS4Ha1w_MG/view) to see walkthrough video
 
 # Screenshots
 --------------
